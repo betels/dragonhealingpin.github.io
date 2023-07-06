@@ -1,4 +1,15 @@
+
 .app-loading .logo{width:64px;height:64px;background:url(logo2.fd55f178dab1397b30ae.png) 50% no-repeat;background-size:cover}@import"https://fonts.googleapis.com/css?family=Roboto&display=swap";
+@import 'styles-reset.scss-theme';
+@import './app/app/app.component.scss-theme';
+@import './app/shared/big-input/big-input/big-input.component.scss-theme';
+@import './app/features/about/about/about.component.scss-theme';
+@import './app/features/examples/notifications/components/notifications.component.scss-theme';
+@import './app/features/examples/todos/components/todos-container.component.scss-theme';
+@import './app/features/examples/stock-market/components/stock-market-container.component.scss-theme';
+@import './app/features/examples/theming/parent/parent.component.scss-theme';
+@import './app/features/examples/theming/child/child.component.scss-theme';
+@import './app/features/examples/examples/examples.component.scss-theme';
 /*!
  * Bootstrap Reboot v4.4.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
