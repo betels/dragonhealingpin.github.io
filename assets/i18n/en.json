@@ -1,5 +1,5 @@
 {
-  "anms.about.change-theme": "Book An Appointment",
+  "anms.about.change-theme": "Jetzt buchen",
   "anms.about.check-blogs": "Medizinische Massage & Traditionalle Kambodschanische Massage",
   "anms.about.contributors.description1": "Want to start contributing to open source with Angular?",
   "anms.about.contributors.description2": "Leave your mark and join the growing team of contributors!",
@@ -61,8 +61,9 @@
   "anms.settings.themes.sticky-header": "Sticky header",
   "anms.settings.themes.title": "Themes",
   "anms.settings.title": "Book An Appointment",
-   "anms.title.long": "Dragon Dragon Healing By Pin ",
-  "anms.title.long2": "Healing by pin  ", 
+   "anms.title.long": "Pin Massage ",
+  "anms.title.long2": "Pin Massage  ", 
   "anms.title.long3": " Medizinische Massage & Traditionalle Kambodschanische Massage ",
-  "anms.title.short": "Dragon Healing"
+  "anms.title.short": "Pin Massage",
+  "anms.menu.Kontakt": "Kontakt"
 }
